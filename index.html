@@ -418,7 +418,7 @@
                 category: "accesorios",
                 price: 59,
                 image: "https://images.unsplash.com/photo-1511499767150-a48a237f0083?q=80&w=600&auto=format&fit=crop"
-                tag: "Accesorios"
+            
             },
             {
                 id: 7,
